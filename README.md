@@ -1,0 +1,1 @@
+Ficsit Hackathon solution
